@@ -73,6 +73,10 @@ MIT License — Free to use in any project, commercial or otherwise.
 
 **Restriction:** Redistribution or resale as a standalone asset package is prohibited. You may include this in your own projects, games, and worlds, but you may not sell or redistribute it as a standalone Unity package or asset store product.
 
+## Credits
+
+Some code contributed by [Chanoler](https://github.com/Chanoler).
+
 ---
 
 <div align="center">
