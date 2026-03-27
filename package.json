@@ -1,7 +1,7 @@
 {
   "name": "com.pesky.box.staffpermissionsystem",
   "displayName": "Staff Permission System",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A comprehensive staff permission management system for VRChat worlds. Features include PIN code authentication, ProTV integration, audio boost controls (LoudCube), and dynamic object visibility based on staff status.",
   "unity": "2022.1",
   "author": {
