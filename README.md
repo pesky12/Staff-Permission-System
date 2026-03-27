@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="Docs/Clubhawk-round safe.png" alt="Clubhawk Logo" width="128">
+
 # Staff Permission System
 
 *A comprehensive staff permission management system for VRChat worlds.*
