@@ -1,0 +1,25 @@
+{
+    "name": "com.pesky.box.staffpermissionsystem.Runtime",
+    "rootNamespace": "PeskyBox.StaffPermissionSystem",
+    "references": [
+        "VRC.Udon",
+        "UdonSharp.Runtime",
+        "Unity.TextMeshPro",
+        "LocalPoliceDepartment.Utilities.AccountManager.Udon"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.pesky.box.staffpermissionsystem",
+            "expression": "1.0.0",
+            "define": "PESKYBOX_STAFF_PERM_MANAGER"
+        }
+    ],
+    "noEngineReferences": false
+}

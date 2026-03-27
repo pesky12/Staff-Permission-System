@@ -1,0 +1,24 @@
+{
+    "name": "com.pesky.box.staffpermissionsystem.ProTVIntegration",
+    "rootNamespace": "PeskyBox.StaffPermissionSystem.ProTV",
+    "references": [
+        "VRC.Udon",
+        "UdonSharp.Runtime",
+        "com.pesky.box.staffpermissionsystem.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "dev.architech.protv",
+            "expression": "1.0.0",
+            "define": "PROTV_PRESENT"
+        }
+    ],
+    "noEngineReferences": false
+}

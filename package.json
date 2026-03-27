@@ -1,0 +1,26 @@
+{
+  "name": "com.pesky.box.staffpermissionsystem",
+  "displayName": "Staff Permission System",
+  "version": "1.0.0",
+  "description": "A comprehensive staff permission management system for VRChat worlds. Features include PIN code authentication, ProTV integration, audio boost controls (LoudCube), and dynamic object visibility based on staff status.",
+  "unity": "2022.1",
+  "author": {
+    "name": "Pesky12"
+  },
+  "vpmDependencies": {
+    "com.vrchat.worlds": "3.5.x",
+    "com.vrchat.udonsharp": "1.x",
+    "com.localpolicedepartment.accountmanager": "1.x"
+  },
+  "keywords": [
+    "vrchat",
+    "udon",
+    "udonsharp",
+    "permissions",
+    "staff",
+    "protv"
+  ],
+  "license": "MIT",
+  "changelogUrl": "https://github.com/peskybox/StaffPermissionSystem/releases",
+  "documentationUrl": "https://github.com/peskybox/StaffPermissionSystem#readme"
+}

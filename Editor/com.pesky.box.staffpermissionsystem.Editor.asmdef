@@ -1,0 +1,21 @@
+{
+    "name": "com.pesky.box.StaffPermissionSystem.Editor",
+    "rootNamespace": "PeskyBox.StaffPermissionSystem.Editor",
+    "references": [
+        "VRC.Udon",
+        "UdonSharp.Runtime",
+        "Unity.TextMeshPro",
+        "com.pesky.box.staffpermissionsystem.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
